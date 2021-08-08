@@ -584,6 +584,9 @@ background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+
  
  
 @media only screen and (max-width: 600px) {
+    .main__container{
+        height: 60vh;
+    }
     .header__text{
         text-align: center;
        font-family: system-ui;
